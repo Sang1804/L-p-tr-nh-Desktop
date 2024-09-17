@@ -1,0 +1,10 @@
+Z:\2212451_Desktop\LAB04_2212451\Form1\bin\Debug\Form1.exe.config
+Z:\2212451_Desktop\LAB04_2212451\Form1\bin\Debug\Form1.exe
+Z:\2212451_Desktop\LAB04_2212451\Form1\bin\Debug\Form1.pdb
+Z:\2212451_Desktop\LAB04_2212451\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+Z:\2212451_Desktop\LAB04_2212451\Form1\obj\Debug\Form1.Form1.resources
+Z:\2212451_Desktop\LAB04_2212451\Form1\obj\Debug\Form1.Properties.Resources.resources
+Z:\2212451_Desktop\LAB04_2212451\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+Z:\2212451_Desktop\LAB04_2212451\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+Z:\2212451_Desktop\LAB04_2212451\Form1\obj\Debug\Form1.exe
+Z:\2212451_Desktop\LAB04_2212451\Form1\obj\Debug\Form1.pdb
